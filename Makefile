@@ -1,5 +1,8 @@
 all: build
 
+//
+added test lines //
+
 TAG = v1.2.0
 PREFIX = gcr.io/google_containers
 FLAGS = 
